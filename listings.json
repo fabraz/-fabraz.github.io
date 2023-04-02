@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/playing_with_openAI/playing_with_openAI.html",
       "/posts/writing_prompt_aug/writing_prompt_aug.html",
       "/posts/nlp_basics/nlp_basics.html"
     ]

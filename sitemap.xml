@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://fabraz.github.io/posts/writing_prompt_aug/writing_prompt_aug.html</loc>
-    <lastmod>2023-04-02T11:58:58.230Z</lastmod>
+    <lastmod>2023-04-02T12:43:15.124Z</lastmod>
   </url>
   <url>
     <loc>https://fabraz.github.io/posts/nlp_basics/nlp_basics.html</loc>
-    <lastmod>2023-04-02T11:58:58.848Z</lastmod>
+    <lastmod>2023-04-02T12:43:15.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabraz.github.io/posts/playing_with_openAI/playing_with_openAI.html</loc>
+    <lastmod>2023-04-02T12:43:16.303Z</lastmod>
   </url>
   <url>
     <loc>https://fabraz.github.io/index.html</loc>
-    <lastmod>2023-04-02T11:58:59.335Z</lastmod>
+    <lastmod>2023-04-02T12:43:16.875Z</lastmod>
   </url>
   <url>
     <loc>https://fabraz.github.io/about.html</loc>
-    <lastmod>2023-04-02T11:58:59.671Z</lastmod>
+    <lastmod>2023-04-02T12:43:17.195Z</lastmod>
   </url>
 </urlset>
