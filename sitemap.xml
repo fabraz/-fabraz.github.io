@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://fabraz.github.io/posts/writing_prompt_aug/writing_prompt_aug.html</loc>
+    <lastmod>2023-04-02T11:58:58.230Z</lastmod>
+  </url>
+  <url>
     <loc>https://fabraz.github.io/posts/nlp_basics/nlp_basics.html</loc>
-    <lastmod>2023-04-02T11:43:23.581Z</lastmod>
+    <lastmod>2023-04-02T11:58:58.848Z</lastmod>
   </url>
   <url>
     <loc>https://fabraz.github.io/index.html</loc>
-    <lastmod>2023-04-02T11:43:23.995Z</lastmod>
+    <lastmod>2023-04-02T11:58:59.335Z</lastmod>
   </url>
   <url>
     <loc>https://fabraz.github.io/about.html</loc>
-    <lastmod>2023-04-02T11:43:24.316Z</lastmod>
+    <lastmod>2023-04-02T11:58:59.671Z</lastmod>
   </url>
 </urlset>

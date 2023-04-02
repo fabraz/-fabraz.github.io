@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/writing_prompt_aug/writing_prompt_aug.html",
       "/posts/nlp_basics/nlp_basics.html"
     ]
   }
