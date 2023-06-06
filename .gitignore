@@ -5,3 +5,4 @@
 data*
 pkg
 quarto-macos.pkg
+*.ipynb_checkpoints*
